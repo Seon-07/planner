@@ -8,11 +8,11 @@ server:
 spring:
   mvc:
     view:
-      prefix: /WEB-INF/planer/
+      prefix: /WEB-INF/planner/
       suffix: .jsp 
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/planer
+    url: jdbc:mysql://localhost:3306/planner
     username: root
     password: 1234
 
