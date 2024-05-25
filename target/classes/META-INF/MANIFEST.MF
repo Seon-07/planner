@@ -1,6 +1,9 @@
 Manifest-Version: 1.0
-Build-Jdk-Spec: 17
+Built-By: seonjihwan
+Build-Jdk: 17.0.9
 Implementation-Title: planner
 Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.seon
+Implementation-URL: https://spring.io/projects/spring-boot/planner
 Created-By: Maven Integration for Eclipse
 
